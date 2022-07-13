@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 *.png
 my_model/
+aclImdb/
+stack_overflow_16k/
+.DS_Store
+*.tar.gz
