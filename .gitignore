@@ -5,3 +5,5 @@ aclImdb/
 stack_overflow_16k/
 .DS_Store
 *.tar.gz
+logs/
+*.tsv
