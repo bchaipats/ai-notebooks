@@ -7,3 +7,5 @@ stack_overflow_16k/
 *.tar.gz
 logs/
 *.tsv
+my_pet_classifier/
+datasets/
