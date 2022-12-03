@@ -11,3 +11,4 @@ my_pet_classifier/
 datasets/
 data/
 *.pth
+*.pt
